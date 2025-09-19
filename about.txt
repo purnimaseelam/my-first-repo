@@ -1,0 +1,3 @@
+Name: Seelam Purnima
+course: BCA
+one thing to you learned in GitHub:Story points are a unit of measure used to estimate the effort or complexity required to complete a task or "issue"  within a project.
